@@ -1,1 +1,1 @@
-"# AHK_Win10_to_MacOS" 
+AutoHotKey script to recreate MacOS shortcuts on Windows 10
