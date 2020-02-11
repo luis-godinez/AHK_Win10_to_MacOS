@@ -1,3 +1,5 @@
+## AutoHotKey script to map MacOS shortcuts on Windows 10.
+
 Based on script by [bpampuch](https://github.com/bpampuch/apple-keyboard-mapping-for-win10/blob/master/AppleKeys.ahk).
 
 **Supportored functionality:**
