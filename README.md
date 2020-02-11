@@ -15,3 +15,10 @@ Based on script by [bpampuch](https://github.com/bpampuch/apple-keyboard-mapping
 * 1-password - CMD+\
 * magnet-like window snapping (halves, quarters, thirds, two-thirds, maximize, restore)
 * other stuff
+
+**Installation Instructions:**
+* Ensure AutoHotKey is installed. [Download here](https://www.autohotkey.com/)
+* Download `MacShortcuts.ahk` script from this repository.
+* Place the script in your windows startup folder
+  * `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup`
+* For first time use, you can right-click and run the script. Otherwise, the script will automatically run on windows startup.
