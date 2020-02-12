@@ -2,7 +2,7 @@
 
 Based on script by [bpampuch](https://github.com/bpampuch/apple-keyboard-mapping-for-win10/blob/master/AppleKeys.ahk).
 
-**Supportored functionality:**
+**Supported functionality:**
 * clipboard (CMD+C, CMD+V, CMD+X, CMD+ALT+SHIFT+V)
 * app-switching (CMD+Tab)
 * text editor cursor manipulation - CMD+Arrow, CMD+SHIFT+Arrow, ALT+Arrow, ALT+SHIFT+Arrow
